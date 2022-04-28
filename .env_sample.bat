@@ -1,0 +1,2 @@
+set ENV=PRODUCTION
+set TEST_VALUE=
